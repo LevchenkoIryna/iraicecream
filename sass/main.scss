@@ -1,0 +1,30 @@
+// utils styles
+
+@import './utils/variables';
+@import './utils/visually-hidden';
+@import './utils/placeholders';
+
+
+// base styles
+
+@import './base/base';
+@import './base/reset';
+
+// components styles
+
+@import './components/container';
+@import './components/logo';
+@import './components/header';
+@import './components/hero';
+@import './components/modal';
+@import './components/modalform';
+@import './components/feature';
+@import './components/work';
+@import './components/team';
+@import './components/client';
+@import './components/footer';
+@import './components/footerform';
+@import './components/example';
+@import './components/examplebutton';
+@import './components/menu';
+
