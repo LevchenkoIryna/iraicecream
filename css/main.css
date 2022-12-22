@@ -49,6 +49,12 @@
   }
 }
 
+@media screen and (max-width: 767px) {
+  .hero__inform {
+    display: none;
+  }
+}
+
 .hero__button {
   display: -webkit-box;
   display: -ms-flexbox;

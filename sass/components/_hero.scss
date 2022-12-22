@@ -52,6 +52,11 @@
   }
 }
 
+.hero__inform {
+  @media screen and (max-width: 767px) {
+    display: none;
+  }
+}
 
 
 .hero__button {
